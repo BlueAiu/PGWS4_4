@@ -4,7 +4,13 @@
 # 結果画像
 
 ![第4回の結果](result.png)
-- 工夫した点：xxx
+
+## 工夫した点
+### MyLitShaderGraph
+* Fragmentの一部のパラメータをブラックボードから編集できるようにし、数値を変更した
+### MyUnlitShaderGraph
+* Blinn-Phongの反射モデルを追加した
+* 時間で動くVoronoiNoiseを追加した
 
 # 進め方
 
